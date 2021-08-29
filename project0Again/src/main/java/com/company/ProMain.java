@@ -2,7 +2,7 @@ package com.company;
 
 import java.sql.SQLException;
 
-public class Main {
+public class ProMain {
 	public static void main(String[] args) throws SQLException {
 		// TODO Auto-generated method stub
 //		CreateAccount create = new CreateAccount("7305769596",5000);
